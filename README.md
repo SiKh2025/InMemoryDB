@@ -8,22 +8,30 @@ This C++ program implements an in-memory key-value database that supports basic 
 C++17 compatible IDE or compiler 
 Standard C++ libraries
 
-**Setup and Running the Program**:
+**Setup and Running the Program**
 
-**If Cloning from Github:**
+1)If Cloning from GitHub:
 
-1)Clone the repository or download the source code.
-2)Open the downloaded DataProcessingandStorageAssignment.cpp file in your preferred C++ IDE or a text editor.
-3)If using an IDE, build and run the program using the IDE's built-in tools.
-4)If using a text editor, save the file, open your terminal or command prompt, navigate to the file's directory, and compile the code: g++ -std=c++17 DataProcessingandStorageAssignment.cpp -o DataProcessingandStorageAssignment
-Then, run the compiled program: ./DataProcessingandStorageAssignment
+Clone the Repository or Download the Source Code(ZipFile):
 
-**If Direclty in an IDE:**
+To clone the repository, use the command: git clone [repository URL].
+Alternatively, you can download the source code as a ZIP file from the GitHub repository page.
+Open the Project in an IDE (such as CLion):
+
+Open your preferred C++ IDE.
+Select 'Open Project' and navigate to the cloned repository or unzipped folder.
+Important: Ensure that the CMakeLists.txt file is present in the root directory of the project. This file is crucial for the IDE to correctly configure the build settings.
+Build and Run the Program Using the IDE's Built-In Tools:
+If the IDE prompts you to select a target, choose the executable target defined in your CMakeLists.txt.
 
 
-1)Copy the source code from the repository.
-2)Paste it into a new project file in your IDE (named DataProcessingandStorageAssignment.cpp).
-3)Use the IDE's build and run commands to compile and execute the program.
+2)If Downloading and Opening the Project Directly in an IDE:
+Copy the Source Code from the Repository:
+
+Navigate to the repository on GitHub and copy the source code.
+Paste it into a New Project File in Your IDE:
+Important: Manually create or copy the CMakeLists.txt file into the root directory of the new project.
+Use the IDE's Build and Run Commands to Compile and Execute the Program:
 
 
 **Using the Program**:
