@@ -1,0 +1,3 @@
+/Users/simar/CLionProjects/InMemoryDB1/cmake-build-debug/CMakeFiles/InMemoryDB1.dir
+/Users/simar/CLionProjects/InMemoryDB1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simar/CLionProjects/InMemoryDB1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
