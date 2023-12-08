@@ -1,7 +1,7 @@
-# DataProcessingandStorageAssignment
+# InMemoryDB
 **Overview**:
 
-This C++ program, titled DataProcessingandStorageAssignment, implements an in-memory key-value database that supports basic transaction functionality. It allows setting and getting integer values by string keys within transactions, with the capability to commit or rollback changes made during a transaction.
+This C++ program implements an in-memory key-value database that supports basic transaction functionality. It allows setting and getting integer values by string keys within transactions, with the capability to commit or rollback changes made during a transaction.
 
 **Requirements**:
 
